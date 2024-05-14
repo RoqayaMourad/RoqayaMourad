@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, Nice to see you.</h1>
-<h4 align="left">I am a dedicated web developer with over 4 years of experience and a Bachelor's degree in Computer Science. Adept in Angular, Node.js, Typescript, and Agile methodologies.</h4>
-
+<h4 align="left">I am a Software Developer with 4+ years of experience in Full-Stack Web Development and a Degree in Computers and Systems Engineering, Award-winning developer with a track record of success in hackathons, showcasing innovative projects.
+- Skilled in Angular, Node.js, Typescript and Agile methodologies.</h4>
 
 - 👨‍💻 My portfolio [hiroqaya.com](hiroqaya.com)
 
