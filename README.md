@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, Nice to see you.</h1>
-<h4 align="left">I am a Software Developer with 4+ years of experience in Full-Stack Web Development and a Degree in Computers and Systems Engineering, Award-winning developer with a track record of success in hackathons, showcasing innovative projects.
-</br> - Skilled in Angular, Node.js, Typescript and Agile methodologies.</h4>
-
-- 👨‍💻 My portfolio [hiroqaya.com](hiroqaya.com)
+<h4 align="left">I am a Frontend Engineer with 5+ years of experience building web applications using Angular and TypeScript.
+Three-time hackathon winner with experience across fintech, travel, analytics, and real-estate platforms.
 
 - 📫 My Email **roqayamourad@gmail.com**
 
